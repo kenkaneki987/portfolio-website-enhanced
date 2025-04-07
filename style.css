@@ -162,7 +162,6 @@ button:nth-child(2):hover{
     transition: transform .3s;
     transform-origin: bottom right;
 
-
 }
 .navlist li a:hover::after{
     transform: scaleX(1);
